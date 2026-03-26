@@ -1,72 +1,80 @@
-# Hi, I'm Rishita Namdeo
-
-First Year B.Tech Student  
-VIT Bhopal University  
-
-Welcome to my GitHub portfolio. I am currently exploring the world of programming and web development while building projects that help me learn and grow as a developer.
-
-As a first-year engineering student, I enjoy experimenting with different technologies, solving problems through code, and gradually building my technical skills. This repository represents my learning journey, projects, and experiments as I develop my skills in software and web development.
+<h1 align="center">Hi 👋, I'm Rishita Namdeo</h1>
+<h3 align="center">First Year B.Tech Student | Aspiring Frontend Developer</h3>
 
 ---
 
 ## About Me
 
-- Currently learning software development and web technologies
-- Interested in frontend development and programming
-- Exploring different programming languages and building small projects to improve my skills
-- Goal: To become a skilled developer and contribute to meaningful technology projects
+I am a first year B.Tech student at VIT Bhopal University with an interest in programming and web development.  
+I enjoy learning new technologies and building projects that help me improve my problem-solving and development skills.
+
+Currently, I am focusing on strengthening my programming fundamentals and exploring frontend development.
 
 ---
 
-## Skills & Technologies
+## Skills
 
-### Programming Languages
-- Python
-- C
-- JavaScript
+Programming Languages  
+- Python  
+- C  
+- JavaScript  
 
-### Web Development
-- HTML
-- CSS
-- Frontend Development
+Web Development  
+- HTML  
+- CSS  
+- Frontend Development  
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Basic problem solving and coding practice platforms
-
----
-
-## What You'll Find Here
-
-In this repository and across my GitHub profile, you will find:
-
-- Practice coding projects  
-- Frontend web development experiments  
-- Learning-based projects  
-- Problem-solving exercises  
-
-These projects reflect my learning progress as a beginner developer and document my growth as I continue exploring new technologies.
+Tools  
+- Git  
+- GitHub  
+- VS Code  
 
 ---
 
 ## Currently Learning
 
-I am currently focusing on improving my skills in:
-
-- JavaScript
-- Frontend Web Development
-- Problem Solving
-- Git & GitHub collaboration
+- JavaScript  
+- Frontend Development  
+- Problem Solving  
+- Git and GitHub workflows  
 
 ---
 
-## Contact Me
+## Projects
+
+This GitHub profile will contain my learning projects including:
+
+- Web development practice projects  
+- Programming exercises  
+- Beginner software projects  
+- Academic assignments  
+
+More projects will be added as I continue learning and building.
+
+---
+
+## Contact
 
 Email: rishita.25bai10122@vitbhopal.ac.in  
 
-If you are interested in collaborating, sharing ideas, or discussing technology, feel free to reach out.
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+</p>
 
 ---
 
-Thank you for visiting my GitHub portfolio.
+## Connect With Me
+
+GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+Thank you for visiting my GitHub profile.
