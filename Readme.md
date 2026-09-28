@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishita Namdeo</h1>
-<h3 align="center">First Year B.Tech Student | Aspiring Frontend Developer</h3>
+<h3 align="center">Second Year B.Tech Student | Aspiring ML engineer</h3>
 
 ---
 
 ## About Me
 
-I am a first year B.Tech student at VIT Bhopal University with an interest in programming and web development.  
+I am a second  year B.Tech student at VIT Bhopal University with an interest in AI and ML.  
 I enjoy learning new technologies and building projects that help me improve my problem-solving and development skills.
 
-Currently, I am focusing on strengthening my programming fundamentals and exploring frontend development.
+Currently, I am focusing on strengthening my programming fundamentals and exploring machine learning and deep learning .
 
 ---
 
@@ -17,7 +17,9 @@ Currently, I am focusing on strengthening my programming fundamentals and explor
 Programming Languages  
 - Python  
 - C  
-- JavaScript  
+- JavaScript
+- java
+- C++
 
 Web Development  
 - HTML  
@@ -27,7 +29,10 @@ Web Development
 Tools  
 - Git  
 - GitHub  
-- VS Code  
+- VS Code
+- claude
+- Antigravity
+- Gamini 
 
 ---
 
@@ -36,7 +41,10 @@ Tools
 - JavaScript  
 - Frontend Development  
 - Problem Solving  
-- Git and GitHub workflows  
+- Git and GitHub workflows
+- C++
+- Python Advance
+- Machine Learning
 
 ---
 
@@ -47,7 +55,8 @@ This GitHub profile will contain my learning projects including:
 - Web development practice projects  
 - Programming exercises  
 - Beginner software projects  
-- Academic assignments  
+- Academic assignments
+- model training projects  
 
 More projects will be added as I continue learning and building.
 
@@ -56,6 +65,7 @@ More projects will be added as I continue learning and building.
 ## Contact
 
 Email: rishita.25bai10122@vitbhopal.ac.in  
+Email: rishita.rk.namdeo@gmail.com
 
 ---
 
